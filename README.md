@@ -7,7 +7,7 @@
 
 #### ckeditor
 
-> 实现word文档编辑好的公式直接复制进ck
+> 实现word文档编辑好的公式直接复制进ck编辑器
 
 #### ueditor
 
@@ -17,6 +17,8 @@
 #### mongo
 > 分表分库策略
 #### redis
+#### aop
+> 支持动态key
 #### quartz
 #### dingtalk
 #### pdf导出
